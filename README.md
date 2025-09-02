@@ -1,2 +1,1 @@
-# E-commerce_Project
-End-to-end e-commerce data project: Designed ERD → built MySQL DB with messy data → cleaned via Power Query, R &amp; Python → created DAX measures, pivots &amp; KPIs in Excel → re-imported to SQL for queries → built Power BI dashboard. Showcased full pipeline from raw data to insights.
+End-to-End E-Commerce Data Project – Designed an ERD, built a MySQL database with raw messy data, performed data cleaning using Power Query, R, and Python, developed DAX measures, pivot tables, and KPIs in Excel, re-imported the cleaned data into SQL for querying, and created an interactive Power BI dashboard. Demonstrated the full data pipeline from ingestion to business insights.
